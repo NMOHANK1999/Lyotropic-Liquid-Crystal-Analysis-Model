@@ -6,5 +6,4 @@ Confocal Image input:
 ![ch01_PLL_barcode](https://user-images.githubusercontent.com/109509567/206279201-7af6c7e1-d247-47d1-be65-4771f98eb837.png)
 ![ch02_brightfield_](https://user-images.githubusercontent.com/109509567/206279206-f3e31ecf-cb64-41a0-bebc-f4973c0b611a.png)
 ![ch04_DNA_reporter_coacervate](https://user-images.githubusercontent.com/109509567/206279210-28410a74-d3a9-4d2d-b4dc-bfb72ec24046.png)
-![ch00_PLL_reporter_coacevate_mask](https://user-images.githubusercontent.com/109509567/206279214-c20a71dd-60de-479c-a264-25408c79e460.png)
-Output in the form of excel sheets and graphs
+Output in the form of excel sheets and graphs generated in code
